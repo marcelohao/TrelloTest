@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Authenticate successfully on Trello</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>add4ee8f-c41b-41c4-9b5b-81b68b9696fd</testCaseGuid>
+</TestCaseEntity>
